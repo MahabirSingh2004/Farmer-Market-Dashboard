@@ -54,7 +54,7 @@ The dashboard provides insights into **sales, quantity, and their relationship**
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Clear understanding of quantity distribution  
 - Identification of high-revenue products  
 - Insights into the correlation between sales and quantity  
