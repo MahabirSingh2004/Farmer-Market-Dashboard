@@ -14,7 +14,7 @@ The dashboard provides insights into **sales, quantity, and their relationship**
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Power BI Desktop**
 
 ---
@@ -52,11 +52,14 @@ The dashboard provides insights into **sales, quantity, and their relationship**
 - Comparison of revenue generated against quantity sold  
 - Helps identify products with high revenue but low quantity and vice versa
 
-## Key Insights
+---
+
+## 📈 Key Insights
 - Clear understanding of quantity distribution  
 - Identification of high-revenue products  
-- Insights into the correlation between sales and quantity
+- Insights into the correlation between sales and quantity  
 
+---
 
 ## Author
 **Mahabir Singh**  
